@@ -39,6 +39,12 @@ extern "C" {
 #define APU_MODESW      APU_GPIO_32
 #define APU_SIMSWAP     APU_GPIO_33
 
+#define APU_WIFI3      APU_GPIO_64
+#define APU_WIFI2      APU_GPIO_68
+#define APU_RESET3     APU_GPIO_51
+#define APU_RESET2     APU_GPIO_55
+
+
 //
 // GPIO states
 //
